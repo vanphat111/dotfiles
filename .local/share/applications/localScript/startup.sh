@@ -19,4 +19,4 @@ fi
 
 kdotool set_desktop 2
 
-$TERMINAL &
+$TERMINAL --start-as=maximized &
