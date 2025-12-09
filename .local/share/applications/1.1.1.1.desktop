@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=1.1.1.1
+Exec=~/.local/share/applications/localScript/warp-cli_Switch.sh
+Icon=zero-trust-orange

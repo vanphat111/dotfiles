@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Windows 10
+Exec=~/.local/share/applications/localScript/reboot2Win.sh
+Terminal=true
+Icon=/home/vanphat111/.local/share/applications/localIcons/windows11.png
