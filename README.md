@@ -34,7 +34,7 @@ Clone repo này về và chạy script cài đặt tự động (đã bao gồm 
 
 ```bash
 # 1. Clone về máy
-git clone [https://github.com/USERNAME_CUA_MAY/dotfiles.git](https://github.com/USERNAME_CUA_MAY/dotfiles.git) ~/dotfiles
+git clone [https://github.com/vanphat111/dotfiles.git](https://github.com/vanphat111/dotfiles.git) ~/dotfiles
 
 # 2. Cấp quyền chạy script
 chmod +x ~/dotfiles/install.sh
