@@ -2,7 +2,7 @@
 
 TERMINAL="kitty"
 
-sleep 5
+sleep 8
 if [ $(kdotool get_desktop) != 1 ]; then
   notify-send -a "System" --expire-time=2600 -i nvidia "Current desktop: $(kdotool get_desktop).
 Moving all apps to desktop 1."

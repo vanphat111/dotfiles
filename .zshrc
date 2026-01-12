@@ -134,4 +134,4 @@ EXCLUDE_DIRS="--exclude .git \
 export FZF_CTRL_T_COMMAND="fd --type f --hidden --follow $EXCLUDE_DIRS"
 export FZF_CTRL_T_OPTS="--tmux center,80%,70% --preview 'bat --style=numbers --color=always --line-range :500 {}'"
 export FZF_ALT_C_COMMAND="fd --type d --hidden --follow $EXCLUDE_DIRS"
-export FZF_ALT_C_OPTS="--tmux center,80%,70% --preview 'eza --tree --level=2 --color=always {} | head -200'"
+export FZF_ALT_C_OPTS="--tmux center,84%,70% --preview 'eza --tree --level=2 --color=always {} | head -200'"

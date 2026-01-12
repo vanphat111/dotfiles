@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Prism Launcher
+Exec=/mnt/games/PrismLauncher-Linux-Qt6-Portable-9.4/PrismLauncher
+Terminal=false
+Icon=/mnt/games/PrismLauncher-Linux-Qt6-Portable-9.4/icon.png

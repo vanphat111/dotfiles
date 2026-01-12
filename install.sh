@@ -55,6 +55,7 @@ link_config "$DOTFILES_DIR/.config/btop" "$HOME/.config/btop"
 link_config "$LOCALAPP_DIR/1.1.1.1.desktop" "$HOST_LOCALAPP_DIR/1.1.1.1.desktop"
 link_config "$LOCALAPP_DIR/warpStatus.desktop" "$HOST_LOCALAPP_DIR/warpStatus.desktop"
 link_config "$LOCALAPP_DIR/window.desktop" "$HOST_LOCALAPP_DIR/window.desktop"
+link_config "$LOCALAPP_DIR/prismLauncher.desktop" "$HOST_LOCALAPP_DIR/prismLaucher.desktop"
 
 # 4. Các folder trong .local/share/applications
 link_config "$LOCALAPP_DIR/localIcons" "$HOST_LOCALAPP_DIR/localIcons"
